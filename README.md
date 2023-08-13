@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **muhammad-afrizal/muhammad-afrizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Muhammad Afrizal, but you can call me Afrizal or Rizal. 
+I'm currently a 5th-semester student at Pamulang University, with a keen interest in the world of technology. 
+I'm especially excited about delving into the realm of Machine Learning. Currently, I'm deeply engaged in the Bangkit independent study program, focusing on the Machine Learning path, all in the spirit of learning and growth. 
+
+If you're interested in getting to know each other, feel free to send me a connection request on my [LinkedIn Profile](https://www.linkedin.com/in/muhammad-afrizal-3a6b51221/). Let's Connect!
