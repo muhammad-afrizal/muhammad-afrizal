@@ -11,7 +11,7 @@ If you're interested in getting to know each other, feel free to send me a conne
 </a>
 </p>
 <!--
-masukin ketika udah ada bahasa pemrograman dalam github  
+masukin ketika udah ada bahasa pemrograman dalam github
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammad-afrizal&layout=compact&langs_count=8&theme=algolia"/>
 --> 
 
