@@ -15,8 +15,8 @@ menambahkan 3 icon statistik menggunakan heroku, vercel.
 <div class="github_statistics">
   <p align="left">
     <a href="https://github.com/muhammad-afrizal">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" height="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="155em">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" height="155em">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-afrizal&theme=algolia&include_all_commits=true&count_private=true&layout=compact" height="100em"><br><br>
     </a>
   </p>  
