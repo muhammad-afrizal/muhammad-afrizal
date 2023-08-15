@@ -15,8 +15,8 @@ menambahkan 3 icon statistik menggunakan heroku, vercel.
 <div class="github_statistics">
   <p align="left">
     <a href="https://github.com/muhammad-afrizal">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="150em">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" height="150em">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" height="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-afrizal&theme=algolia&include_all_commits=true&count_private=true&layout=compact" height="100em"><br><br>
     </a>
   </p>  
@@ -27,14 +27,28 @@ menambahkan 3 icon statistik menggunakan heroku, vercel.
 menambahkan instagram, linkedin
 -->
 <div class="profiles_view">
-  <a href="https://www.instagram.com/afrizzal_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="26em">
+  <a href="https://www.instagram.com/afrizzal_/" title="Visit My Instagram Profile">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="27em">
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-afrizal-3a6b51221/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="26em">
+  <a href="https://www.linkedin.com/in/muhammad-afrizal-3a6b51221/" title="Visit My LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="27em">
   </a>
 </div>
 
+
+<!--
+penambahan badge view github followers, view github stars, github proviles views
+-->
+<div><br>
+  <p align="right">
+    <a href="https://github.com/muhammad-afrizal?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmuhammad-afrizal"/></a>
+  <a href="https://github.com/muhammad-afrizal?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muhammad-afrizal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/muhammad-afrizal">
+    <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/muhammad-afrizal?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
+</p>
+</div>
 
 <!--
 
