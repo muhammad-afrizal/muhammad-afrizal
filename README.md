@@ -4,8 +4,8 @@ data diri
 -->
 ### Hello there 👋
 I'm Muhammad Afrizal, but you can call me Afrizal or Rizal. 
-I'm currently a 5th-semester student at Pamulang University, with a keen interest in the world of technology. 
-I'm especially excited about delving into the realm of Machine Learning. Currently, I'm deeply engaged in the Bangkit independent study program, focusing on the Machine Learning path, all in the spirit of learning and growth. <br>
+I'm currently a 7th-semester student at Pamulang University, with a keen interest in the world of technology. 
+I'm especially excited about delving into the realm of Machine Learning.Currently focusing on independent study and working on project with a focus on the Machine Learning, Data Scientist, Data Analyst track. All in the spirit of learning and growth. <br>
 
 
 ## GitHub Statistics
