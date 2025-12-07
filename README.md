@@ -29,6 +29,7 @@ menambahkan instagram, linkedin
 <!--
 penambahan badge view github followers, view github stars, github proviles views
 -->
+![Profile Views](https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet)
 <div>
   <p align="right">
     <a href="https://github.com/muhammad-afrizal?tab=repositories&sort=stargazers">
@@ -37,7 +38,7 @@ penambahan badge view github followers, view github stars, github proviles views
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muhammad-afrizal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   </p>
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet)
+
 
 <!--
 
