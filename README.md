@@ -1,16 +1,38 @@
 ## GitHub Statistics & Activity
+<div class="github_statistics">
+  <p align="left">
+    <a href="https://github.com/muhammad-afrizal">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="140em">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" height="140em">
+    </a>
+    <a href="https://github.com/muhammad-afrizal">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" alt="GitHub Streak" />
+  </p>
+</div>
+
+
+## Socials
+<!--
+Adding Instagram, LinkedIn
+-->
+<div class="profiles_view" align="center">
+  <a href="https://www.instagram.com/afrizzal_/" title="Visit My Instagram Profile">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="20em">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-afrizall/" title="Visit My LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="20em">
+  </a>
+</div>
+
+## Profile Views
 <div align="center">
-
-  <!-- Main Stats -->
-  <a href="https://github.com/muhammad-afrizal">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=compact" height="140em">
+  <a href="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet" alt="Profile Views" />
   </a>
-  <a href="https://github.com/muhammad-afrizal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-afrizal&theme=algolia&include_all_commits=true&layout=compact&langs_count=6" height="140em">
-  </a>
-  <br><br>
+</div>
 
-  <!-- GitHub Profile Stats -->
+<div>
+    <!-- GitHub Profile Stats -->
   <a href="https://github.com/muhammad-afrizal?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&logoColor=white&label=Total%20Stars&suffix=%20on%20GitHub&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmuhammad-afrizal&color=55960c&labelColor=488207&style=for-the-badge" alt="Total Stars Badge" />
   </a>
@@ -43,32 +65,6 @@
   </a>
   <a href="https://github.com/muhammad-afrizal">
     <img src="https://img.shields.io/github/downloads/muhammad-afrizal/total?logo=github&label=Total%20Downloads&style=for-the-badge&color=007ec6&labelColor=005cbf" alt="Total Downloads" />
-  </a>
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <a href="https://github.com/muhammad-afrizal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
-
-## Socials
-<!--
-Adding Instagram, LinkedIn
--->
-<div class="profiles_view" align="center">
-  <a href="https://www.instagram.com/afrizzal_/" title="Visit My Instagram Profile">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="20em">
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-afrizall/" title="Visit My LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="20em">
-  </a>
-</div>
-
-## Profile Views
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet">
-    <img src="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet" alt="Profile Views" />
   </a>
 </div>
 
