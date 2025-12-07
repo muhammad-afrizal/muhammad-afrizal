@@ -11,6 +11,7 @@ menambahkan 3 icon statistik menggunakan heroku, vercel.
     </a>
   </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet)
 
 ## Socials
 <!--
