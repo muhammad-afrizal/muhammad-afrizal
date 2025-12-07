@@ -5,8 +5,6 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="140em">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" height="140em">
     </a>
-    <a href="https://github.com/muhammad-afrizal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=algolia&hide_border=false" alt="GitHub Streak" />
   </p>
 </div>
 
