@@ -29,12 +29,14 @@ menambahkan instagram, linkedin
 <!--
 penambahan badge view github followers, view github stars, github proviles views
 -->
-<p align="right">
+<div>
+  <p align="right">
     <a href="https://github.com/muhammad-afrizal?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmuhammad-afrizal"/></a>
   <a href="https://github.com/muhammad-afrizal?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muhammad-afrizal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+  </p>
+</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet)
 
 <!--
