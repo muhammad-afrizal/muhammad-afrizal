@@ -3,15 +3,15 @@
   <p align="left">
     <a href="https://github.com/muhammad-afrizal">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="49%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=dark&hide_border=false" height="49%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=dark&hide_border=false" width="49%">
     </a>
   </p>
 </div>
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=apprentice" target="_blank" rel="noopener noreferrer nofollow">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=apprentice" width="100%" alt="Profile Details" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8" width="100%" alt="Profile Details" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice" width="100%" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8" width="50%" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice" width="50%" alt="Profile Details" />
     
         
   </a>
