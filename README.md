@@ -45,12 +45,15 @@ Adding Instagram, LinkedIn
 
 ## Profile Views
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=black">
-    <img src="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=black" alt="Profile Views" />
-  </a>
+  
 </div>
 
 <div align="center">
+  <!-- Profile Views -->
+  <a href="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet" alt="Profile Views" />
+  </a>
+
   <!-- Total Stars -->
   <a href="https://github.com/muhammad-afrizal?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&logoColor=white&label=Total%20Stars&suffix=%20on%20GitHub&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmuhammad-afrizal&color=55960c&labelColor=488207&style=flat&style=for-the-badge" alt="Total Stars Badge" 
