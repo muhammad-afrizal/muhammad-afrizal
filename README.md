@@ -45,10 +45,6 @@ Adding Instagram, LinkedIn
 
 ## Profile Views
 <div align="center">
-  
-</div>
-
-<div align="center">
   <!-- Profile Views -->
   <a href="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet">
     <img src="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet" alt="Profile Views" />
