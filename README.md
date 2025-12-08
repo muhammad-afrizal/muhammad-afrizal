@@ -5,25 +5,22 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=apprentice&include_all_commits=true&count_private=true" width="100%" alt="Profile Details" />
   </a>
   <p align="left">
-    <!-- Productive Time-->
-    <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8&include_all_commits=true&count_private=true" target="_blank" rel="noopener noreferrer nofollow">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8&include_all_commits=true&count_private=true" width="49%" alt="Profile Details" />
-    </a>
     <!-- Stats -->
     <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice&include_all_commits=true&count_private=true" target="_blank" rel="noopener noreferrer nofollow">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice&include_all_commits=true&count_private=true" width="49%" alt="Stats" />
     </a>
+    <!-- Productive Time-->
+    <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8&include_all_commits=true&count_private=true" target="_blank" rel="noopener noreferrer nofollow">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8&include_all_commits=true&count_private=true" width="49%" alt="Profile Details" />
+    </a>
   </p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=nord_dark&include_all_commits=true&count_private=true" alt="Profile details badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=nord_dark&include_all_commits=true&count_private=true" alt="General stats badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=nord_dark&utcOffset=8&include_all_commits=true&count_private=true" alt="Commits per day badge"/>
 </div>
 
 <div class="github_statistics">
   <p align="left">
     <a href="https://github.com/muhammad-afrizal">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="49%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=dark&hide_border=false" width="49%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="49%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-afrizal&theme=dark&hide_border=true" width="49%">
     </a>
   </p>
 </div>
