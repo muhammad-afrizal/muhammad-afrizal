@@ -7,8 +7,10 @@
     </a>
   </p>
 </div>
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f4d4f965c7d8061124c958deb843ac63cff5fa2b18e87681d5cdb0f3d567b01/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d416254726178267468656d653d62656172"><img src="https://camo.githubusercontent.com/5f4d4f965c7d8061124c958deb843ac63cff5fa2b18e87681d5cdb0f3d567b01/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d416254726178267468656d653d62656172" width="750" alt="stats graph" data-canonical-src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=cobalt2)" style="max-width: 100%;"></a>
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=cobalt2" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=cobalt2" width="750" alt="Profile Details" />
+  </a>
 </div>
 
 
