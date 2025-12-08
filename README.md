@@ -45,37 +45,31 @@ Adding Instagram, LinkedIn
 
 ## Profile Views
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet">
-    <img src="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=blueviolet" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=black">
+    <img src="https://komarev.com/ghpvc/?username=muhammad-afrizal&color=black" alt="Profile Views" />
   </a>
 </div>
 
 <div align="center">
-    <!-- GitHub Profile Stats -->
+  <!-- Total Stars -->
   <a href="https://github.com/muhammad-afrizal?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&logoColor=white&label=Total%20Stars&suffix=%20on%20GitHub&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmuhammad-afrizal&color=white&labelColor=0A66C2&style=for-the-badge" alt="Total Stars Badge" 
-    height="50%"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&logoColor=white&label=Total%20Stars&suffix=%20on%20GitHub&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmuhammad-afrizal&color=55960c&labelColor=488207&style=flat&style=for-the-badge" alt="Total Stars Badge" 
+    height="20em"/>
   </a>
+
+  <!-- Github Followers -->
   <a href="https://github.com/muhammad-afrizal?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/muhammad-afrizal?logo=person-add&label=Followers&color=white&labelColor=0A66C2&style=for-the-badge" alt="Followers Badge" 
-    height="50%"/>
-  </a>
-  <a href="https://github.com/muhammad-afrizal/muhammad-afrizal">
-    <img src="https://img.shields.io/github/downloads/muhammad-afrizal/muhammad-afrizal/total?logo=github&label=This%20Repo%20Downloads&style=for-the-badge&color=white&labelColor=0A66C2" alt="This Repo Downloads" 
-    height="50%"/>
+    <img src="https://custom-icon-badges.demolab.com/github/followers/muhammad-afrizal?logo=person-add&label=Followers&color=236ad3&labelColor=1155ba&logoColor=white&style=flat&style=for-the-badge" alt="Followers Badge" 
+    height="20em"/>
   </a>
   <br>
 
-  <!-- Additional Stats -->
+  <!-- Last Commit -->
   <a href="https://github.com/muhammad-afrizal/muhammad-afrizal">
-    <img src="https://img.shields.io/github/stars/muhammad-afrizal/muhammad-afrizal?logo=github&label=This%20Repo%20Stars&style=for-the-badge&color=007ec6&labelColor=005cbf" alt="This Repo Stars" height="50%"/>
-  </a>
-  <a href="https://github.com/muhammad-afrizal/muhammad-afrizal">
-    <img src="https://img.shields.io/github/last-commit/muhammad-afrizal/muhammad-afrizal?logo=github&label=Last%20Commit&style=for-the-badge&color=007ec6&labelColor=005cbf" alt="Last Commit" 
-    height="50%"/>
+    <img src="https://img.shields.io/github/last-commit/muhammad-afrizal/muhammad-afrizal?logo=github&label=Last%20Commit&style=for-the-badge&color=007ec6&style=flat&labelColor=005cbf" alt="Last Commit" 
+    height="20em"/>
   </a>
 </div>
-
 
 <!--
 
