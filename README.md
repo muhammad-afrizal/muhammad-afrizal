@@ -7,6 +7,9 @@
     </a>
   </p>
 </div>
+<div align="center" dir="auto">
+  <a alt="stats graph" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&amp;theme=bear" width="100%"</a>
+</div>
 
 
 ## Socials
