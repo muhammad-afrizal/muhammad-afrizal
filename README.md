@@ -12,8 +12,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-afrizal&theme=apprentice" width="100%" alt="Profile Details" />
   </a>
   <p align="left">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8" width="50%" alt="Profile Details" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice" width="50%" alt="Profile Details" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-afrizal&theme=apprentice&utcOffset=8" width="49%" alt="Profile Details" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice" width="49%" alt="Profile Details" />
   </p>
 </div>
 
