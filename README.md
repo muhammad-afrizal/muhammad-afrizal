@@ -3,7 +3,7 @@
 <div>
   <p align="left">
     <a href="https://github.com/muhammad-afrizal"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&theme=dark&hide_border=true&border_radius=25&include_all_commits=true&count_private=true" width="49%"></a>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammad-afrizal&theme=dark&hide_border=true&border_radius=25&include_all_commits=true&count_private=true" alt="GitHub Streak" width="49%" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammad-afrizal&theme=dark&hide_border=true&border_radius=25" width="49%"></a>
   </p>
 </div>
 
