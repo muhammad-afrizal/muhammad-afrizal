@@ -4,7 +4,7 @@
   <p align="left">
     <a href="https://github.com/muhammad-afrizal">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="49%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammad-afrizal&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="muhammad-afrizal streak badge width="49%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammad-afrizal&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="muhammad-afrizal streak badge" width="49%">
     </a>
   </p>
 </div>
