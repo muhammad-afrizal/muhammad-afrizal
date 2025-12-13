@@ -6,7 +6,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-afrizal&theme=dark&hide_border=true&border_radius=25&include_all_commits=true&count_private=true" width="49%" />
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=muhammad-afrizal&theme=dark&hide_border=true&border_radius=25" width="49%" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=muhammad-afrizal&theme=dark&hide_border=true&border_radius=25" width="49%" alt="GitHub Streak" />
     </a>
   </p>
 </div>
@@ -19,8 +19,8 @@
   </a>
   <p align="left">
     <!-- Stats -->
-    <a href="https://github-readme-streak-stats-eight.vercel.app?user=muhammad-afrizal&theme=apprentice">
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=muhammad-afrizal&theme=apprentice" alt="GitHub Streak" />
+    <a href="https://github.com/muhammad-afrizal" target="_blank" rel="noopener noreferrer nofollow">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice&include_all_commits=true&count_private=true" width="49%" alt="Stats" />
     </a>
     <!-- Productive Time-->
     <a href="https://github.com/muhammad-afrizal" target="_blank" rel="noopener noreferrer nofollow">
