@@ -36,7 +36,7 @@ Adding Instagram, LinkedIn
 -->
 <div class="profiles_view" align="center">
   <a href="https://www.instagram.com/afrizzal_/" title="Visit My Instagram Profile">
-    <img src="https://img.shields.io/badge/Instagram-Afrizal-353434?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram badge" height="20em"/>
+    <img src="https://img.shields.io/badge/Instagram-Afrizzal_-353434?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram badge" height="20em"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammadafrizall/" title="Visit My LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-Afrizal-353434?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn badge" height="20em"/>
