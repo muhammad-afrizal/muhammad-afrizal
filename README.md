@@ -19,7 +19,7 @@
   </a>
   <p align="left">
     <!-- Stats -->
-    <a href="https://git.io/streak-stats">
+    <a href="https://github-readme-streak-stats-eight.vercel.app?user=muhammad-afrizal&theme=apprentice">
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=muhammad-afrizal&theme=apprentice" alt="GitHub Streak" />
     </a>
     <!-- Productive Time-->
