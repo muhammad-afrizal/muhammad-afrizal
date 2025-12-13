@@ -19,8 +19,8 @@
   </a>
   <p align="left">
     <!-- Stats -->
-    <a href="https://github.com/muhammad-afrizal" target="_blank" rel="noopener noreferrer nofollow">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-afrizal&theme=apprentice&include_all_commits=true&count_private=true" width="49%" alt="Stats" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=muhammad-afrizal&theme=apprentice&include_all_commits=true&count_private=true" alt="GitHub Streak" />
     </a>
     <!-- Productive Time-->
     <a href="https://github.com/muhammad-afrizal" target="_blank" rel="noopener noreferrer nofollow">
@@ -36,7 +36,7 @@ Adding Instagram, LinkedIn
 -->
 <div class="profiles_view" align="center">
   <a href="https://www.instagram.com/afrizzal_/" title="Visit My Instagram Profile">
-    <img src="https://img.shields.io/badge/Instagram-Afrizzal_-353434?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram badge" height="20em"/>
+    <img src="https://img.shields.io/badge/Instagram-Afrizzal-353434?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram badge" height="20em"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammadafrizall/" title="Visit My LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-Afrizal-353434?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn badge" height="20em"/>
